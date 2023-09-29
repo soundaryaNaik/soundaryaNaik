@@ -34,6 +34,9 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 <h1 align="center">Projects</h1>
 
 
+
+
+
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [CryptoPe](https://github.com/Pranavv213/CryptoPe)     | Crypto Payments can be done by scanning a QR Code . 
@@ -42,7 +45,9 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 | [News App](https://github.com/Pranavv213/News-App-using-RapidApi-Redux-Firebase)     | Display the latest news based on the caterogory selected or search results
 | [Stock Analytics](https://github.com/Pranavv213?tab=repositories)     | Get the analytics of the stocks based upon search results
 
- 
+
+
+  ---
 **Github Stats:**
 
 <p align="center">
