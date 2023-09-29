@@ -6,9 +6,9 @@
   </img>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQXxGAfRo&#x2F;view?utm_content=DAFQXxGAfRo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a> by Pranav Verma
-<h1 align="center" >Hi, I'm <a href="http://www,.linkedin.com/in/pranav-verma-0537b1214/" target="_blank">Pranav Verma</a></h1>
+<h1 align="center" >Hi, I'm <a href="http://www.linkedin.com/in/soundarya-naik-3a4561232/" target="_blank">Soundarya Naik</a></h1>
 <img width="20%" align="right"   src="https://global-uploads.webflow.com/61ba6468fead2e0eab9d8ca1/61d271805891fdb648492dbc_6f561fee-5bfa-4ddd-80f5-73ae8741442a.gif" >
-I am <b>Pranav Verma</b> Developer Relations at Router Protocol, an Ex- <b> Google DSC Lead </b>, <b> Founder ConnectVerse Community </b>, <b>Google Crowdsource Contributor and Influencer </b>, Student Expert at Postman ,<b> Content Creator </b>
+I am <b>Soundarya Naik</b> Full Stack Developer at Organizeln </b>
 <h3 align="center"> Passionate Web 3 Developer | Content Creator </h3>
 
 - 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
