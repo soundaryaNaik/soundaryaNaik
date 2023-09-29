@@ -25,7 +25,7 @@ I am <b>Soundarya Naik</b> Full Stack Developer at Organizeln </b>
 <h1>Technical Skills 🛠</h1>
    
 I have learned Full Stack Web development and having knowledge of HTML,CSS & Javascript, ReactJs ,Redux JS, Firebase, Node JS, Express JS, Mongo Db, etc
-with a basics of Data Structures and Algorithms .
+with a basics of Data Structures and Algorithms .<br/>
 Other Skills: Content Creation, Open Source, Community Management, DevRel, Video Editing, C ,C++,JAVA, Canva, Singing, Lyrics Writing, Story Telling, Entrepreneurship, Public Speaking, etc
 
 <p align="center"> 
