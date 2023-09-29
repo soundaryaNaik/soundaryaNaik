@@ -53,8 +53,7 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
-<a  href="https://www.youtube.com/channel/UCQXte7z3QifeMGQUZ4aek-A" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/pranav-verma-0537b1214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="[https://www.linkedin.com/in/pranav-verma-0537b1214/](http://www.linkedin.com/in/soundarya-naik-3a4561232/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Pranavvtweet" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:quantumworld394@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
