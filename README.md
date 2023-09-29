@@ -8,7 +8,11 @@ I am <b>Soundarya Naik</b> Full Stack Developer at Organizeln </b>
 <h3 align="center"> Passionate Full Stack Web Developer </h3>
 
 - 🌱 I’m in ♥️ with **ReactJS, NodeJS, MongoDB, ExpressJS**
-- 😍I'm obsessed with building MERN Stack Applications 🔥
+- 😍 I'm obsessed with building MERN Stack Applications 🔥
+- 🚀 As a developer with a knack for crafting innovative, user-centric applications, I thrive on the thrill of turning ideas into reality through code. My journey began with a Bachelor's in Electronics   
+     Engineering, but my love for technology led me to dive headfirst into the world of computer programming.
+- 🌐 I specialize in building amazing web applications that not only function flawlessly but also deliver exceptional user experiences. My projects reflect my commitment to quality, creativity, and a deep 
+      understanding of both the technical and user-facing aspects of software development.
 
 - 📫 How to reach me **sonu.organizein@gmail.com**
 
