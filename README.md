@@ -5,26 +5,23 @@
 <h1 align="center" >Hi, I'm <a href="http://www.linkedin.com/in/soundarya-naik-3a4561232/" target="_blank">Soundarya Naik</a></h1>
 <img width="20%" align="right"   src="https://global-uploads.webflow.com/61ba6468fead2e0eab9d8ca1/61d271805891fdb648492dbc_6f561fee-5bfa-4ddd-80f5-73ae8741442a.gif" >
 I am <b>Soundarya Naik</b> Full Stack Developer at Organizeln </b>
-<h3 align="center"> Passionate Web 3 Developer | Content Creator </h3>
+<h3 align="center"> Passionate Full Stack Web Developer </h3>
 
-- 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
+- 🌱 I’m in ♥️ with **ReactJS, NodeJS, MongoDB, ExpressJS**
 - 😍I'm obsessed with Web3 & Blockchain 🔥
-- ✍️Passionate about Content Creation
-
-- 📝 I regularly write articles on https://www.linkedin.com/posts/pranav-verma-0537b1214_simple-steps-activity-6984393904422891520-VJHC?utm_source=share&utm_medium=member_desktop
 
 - 📫 How to reach me **quantumworld394@gmail.com**
 
 - 📄 Know about my 
-- ⚡ Fun fact **I love ❤ watching Anime 😍 || I used to be a fat boy then I stopped eating PIZZA. Now I just eat my 👩‍💻 code 😋**
+- ⚡ Fun fact **There are two ways to write error-free programs; only the third one works. Now I got true meaning of my 👩‍💻 code 😋**
 
 
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned Full Stack Web 2 & Web 3-development and having knowledge of HTML,CSS & Javascript, ReactJs ,Redux JS, Firebase, Node JS, Express JS, Mongo Db and 
-Solidity , Moralis, Defi, etc with a basics of Data Structures and Algorithms .
+I have learned Full Stack Web development and having knowledge of HTML,CSS & Javascript, ReactJs ,Redux JS, Firebase, Node JS, Express JS, Mongo Db, etc
+with a basics of Data Structures and Algorithms .
 Other Skills: Content Creation, Open Source, Community Management, DevRel, Video Editing, C ,C++,JAVA, Canva, Singing, Lyrics Writing, Story Telling, Entrepreneurship, Public Speaking, etc
 
 <p align="center"> 
@@ -40,6 +37,20 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 | [Web 3 Version of Netflix](https://github.com/Pranavv213/Netflix-Web3-Clone)     | Web 3 Version of Netflix
 | [News App](https://github.com/Pranavv213/News-App-using-RapidApi-Redux-Firebase)     | Display the latest news based on the caterogory selected or search results
 | [Stock Analytics](https://github.com/Pranavv213?tab=repositories)     | Get the analytics of the stocks based upon search results
+
+ ---
+ 
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=soundaryNaik&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryNaik&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+
+</p>
+
+ ---
+
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
 <a  href="https://www.youtube.com/channel/UCQXte7z3QifeMGQUZ4aek-A" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
