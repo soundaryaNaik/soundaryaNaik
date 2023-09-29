@@ -3,7 +3,7 @@
  border-radius: 8px; will-change: transform;">
 </div>
 <h1 align="center" >Hi, I'm <a href="http://www.linkedin.com/in/soundarya-naik-3a4561232/" target="_blank">Soundarya Naik</a></h1>
-<img width="20%" align="right"   src="https://global-uploads.webflow.com/61ba6468fead2e0eab9d8ca1/61d271805891fdb648492dbc_6f561fee-5bfa-4ddd-80f5-73ae8741442a.gif" >
+<img width="20%" align="right"   src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" >
 I am <b>Soundarya Naik</b> Full Stack Developer at Organizeln </b>
 <h3 align="center"> Passionate Full Stack Web Developer </h3>
 
