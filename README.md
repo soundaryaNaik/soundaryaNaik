@@ -47,6 +47,8 @@ Learning with Building is something which I love doing !! Some of my favouraite 
   <img src="https://github-readme-stats.vercel.app/api?username=soundaryNaik&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryNaik&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
  ---
