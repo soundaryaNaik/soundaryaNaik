@@ -10,7 +10,7 @@ I am <b>Soundarya Naik</b> Full Stack Developer at Organizeln </b>
 - 🌱 I’m in ♥️ with **ReactJS, NodeJS, MongoDB, ExpressJS**
 - 😍I'm obsessed with building MERN Stack Applications 🔥
 
-- 📫 How to reach me **quantumworld394@gmail.com**
+- 📫 How to reach me **sonu.organizein@gmail.com**
 
 - 📄 Know about my 
 - ⚡ Fun fact **There are two ways to write error-free programs; only the third one works. Now I got true meaning of my 👩‍💻 code 😋**
@@ -61,7 +61,6 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
-<a  href="[https://www.linkedin.com/in/pranav-verma-0537b1214/](http://www.linkedin.com/in/soundarya-naik-3a4561232/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Pranavvtweet" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:quantumworld394@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="http://www.linkedin.com/in/soundarya-naik-3a4561232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sonu.organizein@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
