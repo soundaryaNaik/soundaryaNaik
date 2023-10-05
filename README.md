@@ -38,7 +38,7 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 <h1 align="center">Projects</h1>
 
 
-<p align="center">
+<div align="center">
 
 
 
@@ -53,12 +53,13 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 | [Food Delivery App](https://github.com/soundaryaNaik/Food-Delivery-App)     | A Food Delivery app like Zomato
 
 
-</p>
+</div>
 
 
  ---
-  
-**Github Stats:**
+
+ <h1 align="center">**Github Stats:**Projects</h1>
+
 
 <p align="center">
   
