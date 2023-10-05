@@ -36,9 +36,9 @@ Other Skills: Content Creation, Open Source, Community Management, DevRel, Video
 Learning with Building is something which I love doing !! Some of my favouraite projects are :-
 
 <h1 align="center">Projects</h1>
-<p align='center'>
 
 
+<p align="center">
 
 
 
@@ -56,7 +56,8 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 </p>
 
 
-  ---
+ ---
+  
 **Github Stats:**
 
 <p align="center">
