@@ -36,6 +36,7 @@ Other Skills: Content Creation, Open Source, Community Management, DevRel, Video
 Learning with Building is something which I love doing !! Some of my favouraite projects are :-
 
 <h1 align="center">Projects</h1>
+<p align='center'>
 
 
 
@@ -52,7 +53,7 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 | [Food Delivery App](https://github.com/soundaryaNaik/Food-Delivery-App)     | A Food Delivery app like Zomato
 
 
-
+</p>
   ---
 **Github Stats:**
 
