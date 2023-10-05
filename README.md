@@ -43,7 +43,7 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Linkedin](https://github.com/soundaryaNaik/Linkedin-Clone)     | Clone of Linkedin . 
+| [Linkedin](https://github.com/soundaryaNaik/Linkedin-Clone)     | Clone of Linkedin
 | [Fitness App](https://github.com/soundaryaNaik/Fitness-App)   | A Fitness Web App 
 | [Dashboard](https://github.com/soundaryaNaik/React-Admin-Dashboard)     | React Admin Dashboard
 | [Chat App](https://github.com/soundaryaNaik/Chat--App)     | Chat App using React and Node
