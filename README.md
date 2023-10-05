@@ -58,7 +58,7 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 
  ---
 
- <h1 align="center">**Github Stats:**Projects</h1>
+ <h1 align="center">**Github Stats</h1>
 
 
 <p align="center">
