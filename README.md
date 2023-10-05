@@ -43,11 +43,13 @@ Learning with Building is something which I love doing !! Some of my favouraite 
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [CryptoPe](https://github.com/Pranavv213/CryptoPe)     | Crypto Payments can be done by scanning a QR Code . 
-| [Web 3 Book Store](https://github.com/Pranavv213/Web3BookStore/)   | E-Books can be purcahsed using cryptos 
-| [Web 3 Version of Netflix](https://github.com/Pranavv213/Netflix-Web3-Clone)     | Web 3 Version of Netflix
-| [News App](https://github.com/Pranavv213/News-App-using-RapidApi-Redux-Firebase)     | Display the latest news based on the caterogory selected or search results
-| [Stock Analytics](https://github.com/Pranavv213?tab=repositories)     | Get the analytics of the stocks based upon search results
+| [Linkedin](https://github.com/soundaryaNaik/Linkedin-Clone)     | Clone of Linkedin . 
+| [Fitness App](https://github.com/soundaryaNaik/Fitness-App)   | A Fitness Web App 
+| [Dashboard](https://github.com/soundaryaNaik/React-Admin-Dashboard)     | React Admin Dashboard
+| [Chat App](https://github.com/soundaryaNaik/Chat--App)     | Chat App using React and Node
+| [Authorization App](https://github.com/soundaryaNaik/mern-auth-tailwind)     | MERN APP for Authorization uing Tailwind CSS
+| [Real Estate App](https://github.com/soundaryaNaik/Real-Estate-MERN)     | MERN Real Estate App
+| [Food Delivery App](https://github.com/soundaryaNaik/Food-Delivery-App)     | A Food Delivery app like Zomato
 
 
 
